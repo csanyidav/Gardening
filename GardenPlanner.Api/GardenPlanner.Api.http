@@ -1,0 +1,6 @@
+@GardenPlanner.Api_HostAddress = http://localhost:5276
+
+GET {{GardenPlanner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
